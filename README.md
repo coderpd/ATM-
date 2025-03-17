@@ -1,5 +1,5 @@
 
-#m-place - B2B E-commerce Platform for IT Products
+# m-place - B2B E-commerce Platform for IT Products
 
 m-place is an innovative B2B e-commerce platform designed for the buying and selling of C-class IT products. The platform connects vendors and customers through a seamless communication system, where vendors can upload their products and customers can initiate discussions before completing a purchase.
 
@@ -121,7 +121,7 @@ Once both the frontend and backend are running:
 
 
 
-## Technologies Used
+
 
 ### Frontend:
 
@@ -187,6 +187,6 @@ For any questions or support, feel free to reach out:
 
 - Project Repository: https://github.com/coderpd/M_Place.git
 
-- Email: your-email@example.com
+- Email: Info@teckost.com
 
-- LinkedIn: Your LinkedIn Profile
+- LinkedIn: https://www.linkedin.com/company/teckost-it-services-pvt-ltd/
