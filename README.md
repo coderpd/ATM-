@@ -173,7 +173,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Screenshots
 
 ### Homepage
-![Homepage](Screenshot/M-Place-HomePage.png)
+![Homepage]([Screenshot/M-Place-HomePage.png](https://github.com/coderpd/ATM-/blob/main/M-Place-HomePage.png?raw=true))
 
 ### Vendor Dashboard
 ![Vendor Dashboard](screenshots/vendor-dashboard.png)
